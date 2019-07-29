@@ -1,5 +1,5 @@
 // Define processing URL and form element
-const url = 'http://127.0.0.1:5000/sentiment_pred'
+const url = 'https://demo-web-scorrea.herokuapp.com/sentiment_pred'
 const form = document.querySelector('form')
 
 
